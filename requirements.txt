@@ -1,0 +1,5 @@
+sanic==22.6.2
+websockets==10.0
+diffusers==0.2.3
+transformers
+scipy
