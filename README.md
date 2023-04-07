@@ -7,7 +7,7 @@ This repo gives a basic framework for serving Stable Diffusion in production usi
 Stable Diffusion is now available as a prebult model on Banana! [See how to deploy Stable Diffusion in seconds](https://docs.banana.dev/banana-docs/core-concepts/inference-server/1-click-deploy).
 
 
-# Quickstart
+# Quickstart 
 
 If you want to customize beyond the prebuilt model:
 
